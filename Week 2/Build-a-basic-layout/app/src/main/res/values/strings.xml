@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Build-a-basic-layout</string>
+  <string name="app_name">Happy Birthday</string>
+  <string name="happy_birthday_text">Happy Birthday, My Friend!</string>
+  <string name="signature_text">From: Joan</string>
 </resources>
