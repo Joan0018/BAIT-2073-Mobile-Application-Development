@@ -1,8 +1,6 @@
 package com.example.add_a_button_to_an_app
 
 import android.os.Bundle
-import android.widget.Button
-import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
@@ -46,12 +44,5 @@ class MainActivity : AppCompatActivity() {
         // Update the content description
         diceImage.contentDescription = diceRoll.toString()
 
-    }
-}
-
-class Dice(val numSides: Int) {
-
-    fun roll(): Int {
-        return (1..numSides).random()
     }
 }
