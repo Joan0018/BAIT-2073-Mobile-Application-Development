@@ -1,13 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.databinding:databinding-adapters:4.1.2] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9d06c4fc223366f97859af22c7906519\databinding-adapters-4.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:4.1.2] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b8219f226dd7fbfc8668a1163df86257\databinding-runtime-4.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ef1af9cda1cc98869d9eb60dff4bb87a\constraintlayout-2.0.0-rc1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4102c377b7a8a929cfb8c6bcf858d486\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db88599cce489c41ca5399233d369317\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\User\.gradle\caches\transforms-2\files-2.1\07202aab04a31327d881215b459a8efb\jetified-viewbinding-4.1.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c1885a8736ec71b9a9070f3a9ebddec1\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7768ef850c6e7f23afc64bde82056cbc\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -28,27 +29,29 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\cac
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6d77bb0317f47eecec5cc52fca77c1a3\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9362e9a4c080bce0504910fd49da771c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\69c997540a8a080b408447e9e263cb9c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
 	package
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
 application
-ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-34:19
+ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-35:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ef1af9cda1cc98869d9eb60dff4bb87a\constraintlayout-2.0.0-rc1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ef1af9cda1cc98869d9eb60dff4bb87a\constraintlayout-2.0.0-rc1\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db88599cce489c41ca5399233d369317\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db88599cce489c41ca5399233d369317\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
 MERGED from [androidx.core:core:1.3.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\10bb4a0be925af7266fedd6b04620832\core-1.3.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\10bb4a0be925af7266fedd6b04620832\core-1.3.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c0c934729d9ce0ebf2355fa409e06cb9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
@@ -56,35 +59,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Us
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\10bb4a0be925af7266fedd6b04620832\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:24:9-61
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:25:9-61
 	android:icon
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:22:9-50
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:23:9-50
 	android:allowBackup
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:26:9-40
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-43
 activity#com.example.android.dessertclicker.MainActivity
-ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-33:20
+ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:19-81
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:19-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:27-74
 uses-sdk
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:4.1.2] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9d06c4fc223366f97859af22c7906519\databinding-adapters-4.1.2\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-adapters:4.1.2] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9d06c4fc223366f97859af22c7906519\databinding-adapters-4.1.2\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:4.1.2] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b8219f226dd7fbfc8668a1163df86257\databinding-runtime-4.1.2\AndroidManifest.xml:22:5-44
@@ -93,6 +98,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\User
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ef1af9cda1cc98869d9eb60dff4bb87a\constraintlayout-2.0.0-rc1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4102c377b7a8a929cfb8c6bcf858d486\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4102c377b7a8a929cfb8c6bcf858d486\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db88599cce489c41ca5399233d369317\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db88599cce489c41ca5399233d369317\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
 MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\User\.gradle\caches\transforms-2\files-2.1\07202aab04a31327d881215b459a8efb\jetified-viewbinding-4.1.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\User\.gradle\caches\transforms-2\files-2.1\07202aab04a31327d881215b459a8efb\jetified-viewbinding-4.1.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c1885a8736ec71b9a9070f3a9ebddec1\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -133,13 +140,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gr
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9362e9a4c080bce0504910fd49da771c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\69c997540a8a080b408447e9e263cb9c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\69c997540a8a080b408447e9e263cb9c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 4\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BAIT-2073-Mobile-Application-Development\Week 5\DessertClicker-Starter\app\src\main\AndroidManifest.xml

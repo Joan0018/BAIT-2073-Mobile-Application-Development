@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\BAIT-2073-Mobile-Application-Development\\Week 4\\DessertClicker-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\BAIT-2073-Mobile-Application-Development\\Week 5\\DessertClicker-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 5\\DessertClicker-Starter\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "323",
+                        "startColumns": "4",
+                        "startOffsets": "15045",
+                        "endColumns": "56",
+                        "endOffsets": "15097"
+                    }
+                },
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\7768ef850c6e7f23afc64bde82056cbc\\jetified-appcompat-resources-1.2.0\\res\\values\\values.xml",
                     "from": {
@@ -20,6 +37,42 @@
                         "endLines": "2242,2249,2260,3355,3360",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "143901,144286,144883,223002,223272"
+                    }
+                },
+                {
+                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 5\\DessertClicker-Starter\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "19,17,18,21,22,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "790,689,737,877,917,837",
+                        "endColumns": "46,47,52,39,40,39",
+                        "endOffsets": "832,732,785,912,953,872"
+                    },
+                    "to": {
+                        "startLines": "308,309,310,319,320,358",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "14135,14182,14230,14829,14869,17312",
+                        "endColumns": "46,47,52,39,40,39",
+                        "endOffsets": "14177,14225,14278,14864,14905,17347"
+                    }
+                },
+                {
+                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 5\\DessertClicker-Starter\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "689",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1007"
+                    },
+                    "to": {
+                        "startLines": "590",
+                        "startColumns": "4",
+                        "startOffsets": "32186",
+                        "endLines": "595",
+                        "endColumns": "12",
+                        "endOffsets": "32504"
                     }
                 },
                 {
@@ -42,25 +95,6 @@
                     }
                 },
                 {
-                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 4\\DessertClicker-Starter\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "689",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "1007"
-                    },
-                    "to": {
-                        "startLines": "590",
-                        "startColumns": "4",
-                        "startOffsets": "32186",
-                        "endLines": "595",
-                        "endColumns": "12",
-                        "endOffsets": "32504"
-                    }
-                },
-                {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\b8219f226dd7fbfc8668a1163df86257\\databinding-runtime-4.1.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -75,6 +109,23 @@
                         "startOffsets": "27972",
                         "endColumns": "40",
                         "endOffsets": "28008"
+                    }
+                },
+                {
+                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 5\\DessertClicker-Starter\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,20,18,22,21,23,19",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "651,781,704,947,836,987,746",
+                        "endColumns": "52,54,41,39,110,71,34",
+                        "endOffsets": "699,831,741,982,942,1054,776"
+                    },
+                    "to": {
+                        "startLines": "576,577,578,580,581,582,584",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "31212,31265,31320,31415,31455,31566,31709",
+                        "endColumns": "52,54,41,39,110,71,34",
+                        "endOffsets": "31260,31315,31357,31450,31561,31633,31739"
                     }
                 },
                 {
@@ -97,24 +148,7 @@
                     }
                 },
                 {
-                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 4\\DessertClicker-Starter\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
-                    },
-                    "to": {
-                        "startLines": "323",
-                        "startColumns": "4",
-                        "startOffsets": "15045",
-                        "endColumns": "56",
-                        "endOffsets": "15097"
-                    }
-                },
-                {
-                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 4\\DessertClicker-Starter\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 5\\DessertClicker-Starter\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "19,18,22,17,21,20",
                         "startColumns": "4,4,4,4,4,4",
@@ -128,40 +162,6 @@
                         "startOffsets": "22664,22710,23243,23287,24118,24165",
                         "endColumns": "45,44,43,46,46,47",
                         "endOffsets": "22705,22750,23282,23329,24160,24208"
-                    }
-                },
-                {
-                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 4\\DessertClicker-Starter\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "19,17,18,21,22,20",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "790,689,737,877,917,837",
-                        "endColumns": "46,47,52,39,40,39",
-                        "endOffsets": "832,732,785,912,953,872"
-                    },
-                    "to": {
-                        "startLines": "308,309,310,319,320,358",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "14135,14182,14230,14829,14869,17312",
-                        "endColumns": "46,47,52,39,40,39",
-                        "endOffsets": "14177,14225,14278,14864,14905,17347"
-                    }
-                },
-                {
-                    "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 4\\DessertClicker-Starter\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "17,20,18,22,21,23,19",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "651,781,704,947,836,987,746",
-                        "endColumns": "52,54,41,39,110,71,34",
-                        "endOffsets": "699,831,741,982,942,1054,776"
-                    },
-                    "to": {
-                        "startLines": "576,577,578,580,581,582,584",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "31212,31265,31320,31415,31455,31566,31709",
-                        "endColumns": "52,54,41,39,110,71,34",
-                        "endOffsets": "31260,31315,31357,31450,31561,31633,31739"
                     }
                 },
                 {
