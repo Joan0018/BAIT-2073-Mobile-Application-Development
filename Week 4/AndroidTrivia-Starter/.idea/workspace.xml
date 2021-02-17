@@ -28,7 +28,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f71322a1-9ca3-4c47-9d9f-b9d780ce6e3c" name="Default Changelist" comment="" />
+    <list default="true" id="f71322a1-9ca3-4c47-9d9f-b9d780ce6e3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 5/GuessTheWord-Starter/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 5/GuessTheWord-Starter/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 5/GuessTheWord-Starter/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 5/GuessTheWord-Starter/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 5/GuessTheWord-Starter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 5/GuessTheWord-Starter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,9 +179,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2551" y="115" key="AndroidCreateXmlResourceDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612172347467" />
-    <state x="2501" y="98" key="FileChooserDialogImpl" timestamp="1612307896373">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="465" y="0" key="FileChooserDialogImpl" timestamp="1613523384881">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="465" y="0" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613523384881" />
     <state x="2501" y="98" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612307896373" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1612233385719">
       <screen x="0" y="0" width="1536" height="824" />
