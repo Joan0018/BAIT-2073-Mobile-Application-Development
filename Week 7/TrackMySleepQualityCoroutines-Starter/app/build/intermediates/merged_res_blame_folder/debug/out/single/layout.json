@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\BAIT-2073-Mobile-Application-Development\\Week 7\\TrackMySleepQualityCoroutines-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_quality.xml",
+        "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 7\\TrackMySleepQualityCoroutines-Starter\\app\\src\\main\\res\\layout\\fragment_sleep_quality.xml"
+    },
+    {
+        "merged": "D:\\BAIT-2073-Mobile-Application-Development\\Week 7\\TrackMySleepQualityCoroutines-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_tracker.xml",
+        "source": "D:\\BAIT-2073-Mobile-Application-Development\\Week 7\\TrackMySleepQualityCoroutines-Starter\\app\\src\\main\\res\\layout\\fragment_sleep_tracker.xml"
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMIを計算する</string>
+    <string name="Welcome">ようこそ</string>
+    <string name="Weight">重り</string>
+    <string name="Height">高さ</string>
+    <string name="Name">名前</string>
+    <string name="Enter">入る</string>
+    <string name="M">M</string>
+    <string name="KG">KG</string>
+    <string name="Calculate">計算する</string>
+    <string name="Status">状態</string>
+</resources>
